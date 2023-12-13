@@ -1,0 +1,32 @@
+body {
+    background-color: #ccedf5;
+    color: aliceblue;
+    font-family: cursive;
+    background-image: url("https://transparenttextures.com/patterns/brushed-alum-dark.png");
+    justify-content: center;
+}
+.buttons {
+    margin-left: 15%;
+    margin-right: 15%;
+    display: flex;
+    flex-direction: column;
+    color: rgb(29, 16, 100);
+
+}
+h1 {
+    color:black;
+    text-shadow: black;
+}
+.header {
+    width: 100%;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 3rem;
+}
+h3 {
+    font-size: 1.5rem;
+}
+.list {
+    color: black;
+    margin-left: 10px;
+}
